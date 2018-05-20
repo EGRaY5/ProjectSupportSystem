@@ -1,0 +1,48 @@
+.navbar-inverse {
+
+    background-color:#616161;
+    border-color: #080808;
+    border-radius: 5px;
+    margin-bottom: 0;
+
+
+}	
+.navbar-default {
+	background-color:#263238;
+	border-radius: 5px;
+	margin-bottom: 0;
+	height: 80px;
+}	
+
+
+.bit_logo {
+	margin-left: 10px;
+	margin-top: 1px;
+	border-radius: 45%;
+}
+
+h3 {
+	margin-top: 25px;
+	float: left;
+	position: static;
+	color: white;
+	margin-left: 200px;
+
+	
+}
+
+.ucsc_logo {
+	margin-left: 355px;
+	margin-bottom: 4px;
+	border-radius: 20%;
+	position: absolute;
+
+}
+
+
+
+
+
+
+
+

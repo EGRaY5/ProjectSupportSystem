@@ -1,0 +1,12 @@
+<link rel="stylesheet" type="text/css" href="resources/styles/homepage.css"/>
+<div class="row" id="Footer">
+<p id="coordinat" >project coordinator <br/>
+					details<br/>
+					contact details	<br/>	</p>
+
+
+<p id="footnote" >© 2017, All rights reserved by University of Colombo School of Computing<br/>
+No: 35, Reid Avenue, Colombo 7, Sri Lanka.<p>
+
+
+	</div>

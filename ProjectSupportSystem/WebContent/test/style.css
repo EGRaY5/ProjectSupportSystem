@@ -1,0 +1,23 @@
+.container {
+	margin-left: 50px;
+	background-color: pink;
+	width: 600px;
+}
+
+table td {
+	padding: 15px;
+}
+input {
+	width: 200px;
+}
+
+.rc {
+	width: 30px;
+
+}
+textarea {
+	width: 200px;
+}
+ h2 {
+ 	color: green;
+ }

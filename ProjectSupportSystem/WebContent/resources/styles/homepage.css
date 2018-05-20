@@ -1,0 +1,169 @@
+body{
+	background-color:#f7f2ea;
+	margin: 3px;
+	padding: 3px;
+}
+
+.navbar-inverse {
+
+    background-color:#616161;
+    border-color: #080808;
+    border-radius: 5px;
+    margin-bottom: 0;
+
+
+}	
+
+
+.navbar-default {
+	background-color:#263238;
+	border-radius: 5px;
+	margin-bottom: 0;
+	height: 80px;
+}	
+
+
+.bit_logo {
+	margin-left: 10px;
+	margin-top: 1px;
+	border-radius: 45%;
+}
+
+h3 {
+	margin-top: 25px;
+	float: left;
+	position: static;
+	color: white;
+	margin-left: 200px;
+
+}
+
+.ucsc_logo {
+	margin-left: 355px;
+	margin-bottom: 4px;
+	border-radius: 20%;
+	position: absolute;
+
+}
+
+#NavFont{
+	color: white;
+	font-size: 16px;
+}
+
+#NavFont:hover{
+	color: #ffffff;
+	font-size: 16px;
+	background-color: #009688; 
+}
+
+#ContentImage{
+	height:470px;
+	width: 1100px;
+	margin:0 auto;
+}
+
+	
+
+
+}
+
+.sidebar {
+  position: absolute;
+  top: 132px;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  padding: 20px;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+  border-right: 1px solid #eee;
+}
+
+.sidebar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.sidebar .nav {
+  margin-bottom: 20px;
+}
+
+.sidebar .nav-item {
+  width: 100%;
+}
+
+.sidebar .nav-item + .nav-item {
+  margin-left: 0;
+}
+
+.sidebar .nav-link {
+  border-radius: 0;
+}
+
+.left-side-bar{
+	position: absolute;
+}
+.right-side-bar{
+	position: absolute;
+}
+
+.jumbotron{
+	border-radius:5px;
+	border:solid #6d737c;
+	
+	
+}
+.mainbody{
+	color:black;
+}
+.ucsc_logo1 {
+	width:150px;
+	height:150px;
+    margin-left:250px;
+	margin-bottom: 4px;
+	border-radius: 20%;
+}
+#links:hover{
+	color:red;
+	
+}	
+.col-md-2{
+	border:solid #6d737c;
+	border-radius:5px;
+	height: 400;
+}
+#annouce_title{
+	text-align: center;
+}
+
+#accordion{
+	text-align:center;
+
+}
+.news{
+	background-color:white;
+}
+
+.footer{
+	background-color:#616161;
+}
+
+#Footer{
+	color:white;
+	background-color: #263238;
+	margin-top: 50px;
+	width:100%;
+}
+#footnote{
+	width:100%;
+	text-align:center;
+}
+#coordinat{
+	text-align:right;
+
+}
+
+.panal-group {
+	width:99%;
+}
